@@ -1,1 +1,0 @@
-ALTER TABLE `patterns` ADD `made_how` text;
